@@ -13,7 +13,7 @@
         box-sizing: border-box;
       }
     </style>
-    <link rel="stylesheet" href="../styles.css" />
+    <link rel="stylesheet" href="./styles.css" />
   </head>
 
   <body>
@@ -30,6 +30,10 @@
     const list = document.createElement('ul');
 
     // Add your code here
+
+    for (const arrays of myArray) {
+        list.innerHTML += `<li>${arrays}</li>`;
+    }
 
     // Don't edit the code below here!
 
