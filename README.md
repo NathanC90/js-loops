@@ -27,7 +27,7 @@ To begin with the task, the following information is provided:
 * `phonebook`-- contains the phonebook entries to search.
 
 We are also asked to use another type of loop that we have not used in Loop 1.
-Since the initialser is given in Loop 3, I decide to use `for` loop at this time.
+Since the initialiser is given in Loop 3, I decide to use `for` loop at this time.
 
 ## Loop 3
 
