@@ -27,7 +27,7 @@ To begin with the task, the following information is provided:
 * `phonebook`-- contains the phonebook entries to search.
 
 We are also asked to use another type of loop that we have not used in Loop 1.
-Therefore, I decide to use `while` loop at this time.
+Since the initialser is given in Loop 3, I decide to use `for` loop at this time.
 
 ## Loop 3
 
@@ -44,4 +44,4 @@ For each number that isn't a prime number, continue on to the next loop iteratio
 For each one that is a prime number, add it to the paragraph's textContent along with some kind of separator.
 
 It is required to use a type of loop that we have not used in the previous two tasks.
-This time, I choose `for` loop for the final task.
+This time, I choose `while` loop for the final task.
