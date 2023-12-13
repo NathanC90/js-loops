@@ -20,11 +20,11 @@ Regarding objects, we are given a tutorial [here (JavaScript object basics)](htt
 
 To begin with the task, the following information is provided:
 
-<li>`name`-- contains a name to search for</li>
+* `name`-- contains a name to search for
 
-<li>`para`-- contains a reference to a paragraph, which will be used to report the results</li>
+* `para`-- contains a reference to a paragraph, which will be used to report the results
 
-<li>`phonebook`-- contains the phonebook entries to search.</li>
+* `phonebook`-- contains the phonebook entries to search.
 
 We are also asked to use another type of loop that we have not used in Loop 1.
 Therefore, I decide to use `while` loop at this time.
