@@ -11,7 +11,22 @@ Since we only need to print out all the items and don't need access to the index
 
 To ensure the items are shown as list items, I use innerHTML instead of textContent and add li tags around the texts.
 
-
 ## Loop 2
+
+In the second task, we are asked to write a simple program that, given a name, searches an array of objects containing names and phone numbers (`phonebook`).
+If it finds the name, outputs the name and phone number into the paragraph (`para`), and then exits the loop beofre it has run its course.
+
+Regarding objects, we are given a tutorial [here (JavaScript object basics)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics).
+
+To begin with the task, the following information is provided:
+
+<li>`name`-- contains a name to search for</li>
+
+<li>`para`-- contains a reference to a paragraph, which will be used to report the results</li>
+
+<li>`phonebook`-- contains the phonebook entries to search.</li>
+
+We are also asked to use another type of loop that we have not used in Loop 1.
+Therefore, I decide to use `while` loop at this time.
 
 ## Loop 3
